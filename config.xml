@@ -1,0 +1,10 @@
+<UserScriptConfig>
+	<Script basedir="eyny" checkRemoteUpdates="1" dependhash="826f04b7085a3aa756d9f47fcfe038591d5ec0fe" description="eyny" enabled="true" filename="eyny.js" installTime="1453623667000" modified="1453629825000" name="eyny" namespace="diywor.info" noframes="false" runAt="document-end" updateMetaStatus="ok" uuid="d472b46c-75ed-4cf7-aa64-6b12bf21f6a6" version="1" installurl="file:///home/jackchen/.mozilla/firefox/7n10kw3n.default/gm_scripts/eyny/eyny.js" updateurl="file:///home/jackchen/.mozilla/firefox/7n10kw3n.default/gm_scripts/eyny/eyny.js">
+		<Grant>none</Grant>
+		<Include>http://www.marathonsworld.com/app/training.php?*</Include>
+		<UserInclude>http://*.eyny.com/</UserInclude>
+		<UserInclude>http://www23.eyny.com/*.html</UserInclude>
+		<UserInclude>http://www.eyny.com/*.html</UserInclude>
+		<Require filename="jquery-1.7.2.js"/>
+	</Script>
+</UserScriptConfig>
